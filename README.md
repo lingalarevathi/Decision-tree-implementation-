@@ -13,3 +13,6 @@
 **Mentor Name**: Neela Santhosh 
 
 # Enter the discription of the task preferred not less than 500 words #
+
+**Output of the task**:
+Decision-tree-implementation--main.zip](https://github.com/user-attachments/files/18394757/Decision-tree-implementation--main.zip)
